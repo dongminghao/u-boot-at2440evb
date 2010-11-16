@@ -13,7 +13,7 @@
 *~
 *.swp
 *.patch
-
+*.bak
 #
 # Top-level generic files
 #
